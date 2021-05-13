@@ -30,7 +30,7 @@
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter</artifactId>
             <version>5.7.0</version>
-            <scope>test</scope>
+            <scope>verify</scope>
         </dependency>
         <dependency>
             <groupId>org.mockito</groupId>
