@@ -10,7 +10,7 @@ public class CartManager {
     this.repository = repository;
   }
 
-  public void add(PurchaseItem item) {
+  public void addItem(PurchaseItem item) {
     repository.save(item);
   }
 
